@@ -8,4 +8,4 @@ I'm passionate about growing others, myself and making a positive impact in the 
 
 You can reach me at sshadley.dev@gmail.com or <a href="https://www.linkedin.com/in/spencershadley"> LinkedIn<a/>!
 
-Fun fact - I like _really_ spicy food. I put carolina reaper flakes in almost everything I eat! 🌋
+Fun fact - I like _really_ spicy food. I put carolina reaper flakes in almost everything! 🌋
