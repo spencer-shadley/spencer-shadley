@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://spencer-shadley.github.io/img/dancing-spencer.gif">
 
-<!--
-**spencer-shadley/spencer-shadley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Spencer 👋
 
-Here are some ideas to get you started:
+Currently I'm a lead software engineer at Tableau. I've also founded a few startups and was recently an instructor for the University of Washington.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience has primarily been in full-stack web development and mobile app development but am interested in solving interesting problems regardless of the medium they take shape.
+
+I'm passionate about growing others, myself and making a positive impact in the world through software.
+
+You can reach me at sshadley.dev@gmail.com ! 📧 👋
+
+⚡ Fun fact - I like _really_ spicy food. I put carolina reaper flakes in almost everything I eat! 🌋
