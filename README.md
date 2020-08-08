@@ -2,7 +2,7 @@
 
 ### Hi, I'm Spencer 👋
 
-Currently I'm a lead software engineer at Tableau. I've also founded a few startups and was recently an instructor for the University of Washington.
+I'm a lead software engineer at Tableau. I've also founded a few startups and was recently an instructor for the University of Washington.
 
 I'm passionate about growing others, myself and making a positive impact in the world through software.
 
